@@ -175,7 +175,7 @@ footer {
 		margin-top: ;
 		margin-left: ;
 		margin-right: px;
-		margin-bottom: 35px;
+		margin-bottom: 25px;
 		width: 400px;
 		height: 415px;
 		/*background: #000;*/
@@ -201,7 +201,7 @@ footer {
 	.box3{
 		margin-top: 15px;
 		width: 500px;
-		height: 75px;
+		height: 85px;
 		/*background: #000;*/
 		border-radius: 25px;
 		align-content: center;
